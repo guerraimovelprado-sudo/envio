@@ -1,0 +1,14 @@
+PÁGINA DE CONFIRMAÇÃO DE IDADE
+
+Envie index.html e a pasta assets juntos para a pasta desejada na hospedagem.
+A página é estática e funciona sem PHP, instalação, bibliotecas externas ou configuração de API.
+
+O único botão confirma a declaração de idade e abre, na mesma aba:
+https://anjodeluz.site/pedido/
+
+O destino está no atributo href do botão em index.html.
+Não há redirecionamento automático, coleta de dados, cookies ou pixel novo.
+Não altera nenhuma configuração do site de pedidos.
+A confirmação é uma autodeclaração, não uma verificação documental de identidade.
+
+Inclui versão adaptada para celular, foco visível por teclado e respeito à preferência por movimento reduzido.
